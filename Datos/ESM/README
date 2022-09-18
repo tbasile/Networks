@@ -1,0 +1,7 @@
+This directory contains the data used in the paper. Folders correspond to the six sports studied. The sport's name and initials of the corresponding association give each folder its name. 
+
+Each folder contains a file called "time_list" including the dates considered for the data analysis. Moreover, they include a directory called "data" containing files named after each date in the corresponding "time_list" file. 
+
+Each of these files has a double-column format. The first column contains a unique ID of the player or team. This can be a number given by the association (for chess), the name of a person (for golf, poker and tennis), a club (for FCWR) or a country (for FIFA). The second column contains its score at the corresponding date. 
+
+
